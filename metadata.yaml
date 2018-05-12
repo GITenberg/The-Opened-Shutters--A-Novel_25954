@@ -1,0 +1,36 @@
+_repo: The-Opened-Shutters--A-Novel_25954
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Fisher, Harrison
+    birthdate: 1875
+    deathdate: 1934
+    gutenberg_agent_id: '25149'
+    url: http://www.gutenberg.org/2009/agents/25149
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Burnham, Clara Louise
+    alias: Burnham, Clara Louise Root
+    birthdate: 1854
+    deathdate: 1927
+    gutenberg_agent_id: '1017'
+    url: http://www.gutenberg.org/2009/agents/1017
+description: ''
+gutenberg_issued: '2008-07-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25954'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Casco Bay (Me.) -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Love stories'
+- !lcsh 'Young women -- Fiction'
+title: 'The Opened Shutters: A Novel'
+url: http://www.gutenberg.org/ebooks/25954
